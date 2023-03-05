@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sougata\\Downloads\\WeatherInformationSln\\WeatherInformationSln\\WeatherInfoCli\\WeatherInfoCli.csproj",
+      "projectUniqueName": "C:\\Users\\Sougata\\source\\repos\\WeatherInformationApp\\WeatherInfoCli\\WeatherInfoCli.csproj",
       "projectName": "WeatherInfoCli",
-      "projectPath": "C:\\Users\\Sougata\\Downloads\\WeatherInformationSln\\WeatherInformationSln\\WeatherInfoCli\\WeatherInfoCli.csproj",
+      "projectPath": "C:\\Users\\Sougata\\source\\repos\\WeatherInformationApp\\WeatherInfoCli\\WeatherInfoCli.csproj",
       "packagesPath": "C:\\Users\\Sougata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sougata\\Downloads\\WeatherInformationSln\\WeatherInformationSln\\WeatherInfoCli\\obj\\",
+      "outputPath": "C:\\Users\\Sougata\\source\\repos\\WeatherInformationApp\\WeatherInfoCli\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sougata\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,17 +51,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

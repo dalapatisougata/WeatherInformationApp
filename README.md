@@ -1,26 +1,39 @@
-# WeatherInformationApp
+# WeatherInformation-CLI
+ Weather Information with command line interface
+ 
+ this exe accept city name and display weather information from below link
 
+ [https://api.open-meteo.com/](https://api.open-meteo.com/)
 
+ internally it will hit the api ([api link](https://api.open-meteo.com/v1/forecast?latitude=18.9667&longitude=72.8333&current_weather=true))
+ 
+ Clone this repo and build the project & generate exe usnig below command
+ ```console
+ dotnet build
+```
 
+ this exe has two cli command "ShowCities" & "ShowWeather" alog with few default commands
+ ```console
+ .\WeatherInfoCli.exe -h
+ ```
+ **Output:**
+ 
+ ![help output](Output-Img/help.jpg)
 
-![1st](https://user-images.githubusercontent.com/40000689/222959830-22f32fe8-bcc3-4579-920c-4e400078c04e.PNG)
+to run this exe you need to goto WeatherInfoCli.exe folder (bin folder) and opne a command prompt
 
+show list of cities:
+```sh
+.\WeatherInfoCli.exe ShowCities
+```
+**Output:**
 
+![Show Cities](Output-Img/ShowCityies.jpg)
 
+show weather of any cities which displayed using above command
+```console
+.\WeatherInfoCli.exe ShowWeather -c pune
+```
+**Output:**
 
-
-Basic Overview :
-
-This one is a weather information application using Command Line Tool which will take user
-input as City and gives the weather related information.
-
-Steps to run the application :
-1. Clone from the repo(dalapatisougata/WeatherInformationApp)
-2. Open your Visual Studio Code => File => Open Folder => Select this WeatherInfoCli folder from where you clone.
-3. Open a New Terminal 
-4. DOTNET BUILD and press enter
-5. DOTNET RUN and press enter
-
-
-
-Now Just Enter City Name and you will get the weather details for the particular city. I have attached the screenshot for more details.
+![Show Weather](Output-Img/ShowWeather.jpg)
