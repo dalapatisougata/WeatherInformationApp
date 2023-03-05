@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B0+e8+wXjVDJqHjtISSwVZpCkxEmr//iJeiiQqfWoY3/Gm2+j0lTCJx5FBAJWWBmtfEMxwF2o9Ddz9OJHC6MUg==",
+  "dgSpecHash": "GyUqmJJCBwoFKG9V+94cd06drFTV4bHHhkAqJdwhEj1VYCHQeb6hW1IQyTk7L0BRen/MObh6E/hEz3sX/+GhaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sougata\\Downloads\\WeatherInformationSln\\WeatherInformationSln\\WeatherInfoCli\\WeatherInfoCli.csproj",
+  "projectFilePath": "C:\\Users\\Sougata\\source\\repos\\WeatherInformationApp\\WeatherInfoCli\\WeatherInfoCli.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
