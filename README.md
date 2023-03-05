@@ -1,5 +1,5 @@
 # WeatherInformationApp
-Weather_Information
+
 
 
 
@@ -9,8 +9,9 @@ Weather_Information
 
 
 
-Basic Overview
-This one is a weather information app using Command Line Tool. which will take user
+Basic Overview :
+
+This one is a weather information app using Command Line Tool which will take user
 input as City and gives the weather related information.
 
 Steps to run the application :
@@ -22,4 +23,4 @@ Steps to run the application :
 
 
 
-Now Just Enter City Name and you will get the weather details for the perticular city.I have attached the screen shot for more details.
+Now Just Enter City Name and you will get the weather details for the perticular city. I have attached the screenshot for more details.
